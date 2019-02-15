@@ -11,3 +11,6 @@ This repo will contain several simple hello words programs. i'll start with one 
 - Go
 - Python
 - Shell
+- Haskell
+- Pascal
+- Rust
